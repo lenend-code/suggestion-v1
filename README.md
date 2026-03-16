@@ -7,7 +7,8 @@
 - **Run**: `npm start`
 
 ### What it does
-- Use `/suggestions` to set the suggestions channel (requires **Manage Messages** = `32768`).
+- Use `/suggestions` to set the suggestions channel (requires **Manage Messages** ).
 - Any user message sent in that channel gets deleted and reposted as a **Container Builder** message with **Like / Dislike** buttons.
-- Votes are stored in `data/suggestions.json` so counts persist.
+- Votes are stored in `data/suggestions.json` so counts persist **Example ⬇**
 
+![Suggestions Bot](https://i.ibb.co/TMQ7xxpJ/image.png)
